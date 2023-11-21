@@ -1,88 +1,33 @@
-~$*.xlsx
-firmware/.metadata/
- **/*.cmd
- **/plantuml.jar
- figures/hierarchy.txt
- cloned-repos/
-
-# ### STM32 files ###
-
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Misc
-*.map
-*.m
-
-# Eclipse CDT project files
-.cproject
-.project
-.settings/
-
-# Vagrant directory
-.vagrant/
-
-# Include makefiles
-!Makefile
-*~
-
-# Libraries
-/lib
-
-
 # ### Altium Files ###
 
 # Various Altium files
-*.PrjPCBStructure
-*.SchDocPreview
-*.PcbDocPreview
-__Previews
-*.PrjPcbStructure
-*.Dat
-*.REP
-*.TLT
-*.LOG
-*.log
-*.htm
-*.$$$
+Christmas-2023_Soundboard/*.PrjPCBStructure
+Christmas-2023_Soundboard/*.SchDocPreview
+Christmas-2023_Soundboard/*.PcbDocPreview
+Christmas-2023_Soundboard/__Previews
+Christmas-2023_Soundboard/*.PrjPcbStructure
+Christmas-2023_Soundboard/*.Dat
+Christmas-2023_Soundboard/*.REP
+Christmas-2023_Soundboard/*.TLT
+Christmas-2023_Soundboard/*.LOG
+Christmas-2023_Soundboard/*.log
+Christmas-2023_Soundboard/*.htm
+Christmas-2023_Soundboard/*.$$$
 
 #useless dirs
-Project\ Outputs
-Project\ Logs
-Project Outputs for*
+Christmas-2023_Soundboard/Project\ Outputs
+Christmas-2023_Soundboard/Project\ Logs
+Christmas-2023_Soundboard/Project Outputs for*
 
 #History
-History
+Christmas-2023_Soundboard/History/
 
 #Exports, but not manual ones
-exports/*
-!exports/manual
+Christmas-2023_Soundboard/exports/*
+Christmas-2023_Soundboard/!exports/manual
 
 #Python stuff
-scripts/__pycache__/
-*.bak
-*.dwl
-*.dwl2
+Christmas-2023_Soundboard/scripts/__pycache__/
+Christmas-2023_Soundboard/*.bak
+Christmas-2023_Soundboard/*.dwl
+Christmas-2023_Soundboard/*.dwl2
