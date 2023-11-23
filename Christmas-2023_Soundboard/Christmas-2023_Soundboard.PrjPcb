@@ -89,7 +89,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -106,7 +106,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -123,7 +123,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -140,7 +140,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -174,7 +174,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1165,8 +1165,40 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=USB_FS_D_N|NetColor=$00FFFF6E
-Net2=NetName=USB_FS_D_P|NetColor=$00FFFF6E
+Net1=NetName=+5_USB|NetColor=$006E6EFF
+Net2=NetName=ADAC_SD|NetColor=$006A00A1
+Net3=NetName=DAC_OUT1|NetColor=$006A00A1
+Net4=NetName=GAIN_12DB|NetColor=$007F0311
+Net5=NetName=GAIN_15DB|NetColor=$007F0311
+Net6=NetName=GAIN_3DB|NetColor=$007F0311
+Net7=NetName=GAIN_6DB|NetColor=$007F0311
+Net8=NetName=GND|NetColor=$00727882
+Net9=NetName=I2S_AMP_SD|NetColor=$007F0311
+Net10=NetName=I2S2_CLK|NetColor=$007F0311
+Net11=NetName=I2S2_DATA|NetColor=$007F0311
+Net12=NetName=I2S2_WS|NetColor=$007F0311
+Net13=NetName=NJTRST|NetColor=$006EFF6E
+Net14=NetName=NRST|NetColor=$006EFF6E
+Net15=NetName=SDIO_CARD_DETECT|NetColor=$0000BE00
+Net16=NetName=SDIO_CLK|NetColor=$0000BE00
+Net17=NetName=SDIO_CMD|NetColor=$0000BE00
+Net18=NetName=SDIO_D0|NetColor=$0000BE00
+Net19=NetName=SDIO_D1|NetColor=$0000BE00
+Net20=NetName=SDIO_D2|NetColor=$0000BE00
+Net21=NetName=SDIO_D3|NetColor=$0000BE00
+Net22=NetName=SHIFT_DATA_CLK|NetColor=$00094E5A
+Net23=NetName=SHIFT_DATA_OUT|NetColor=$00094E5A
+Net24=NetName=SHIFT_MCLR|NetColor=$00094E5A
+Net25=NetName=SHIFT_OE_PWM|NetColor=$00094E5A
+Net26=NetName=SHIFT_STORE_CLK|NetColor=$00094E5A
+Net27=NetName=SWD_CLK|NetColor=$006EFF6E
+Net28=NetName=SWD_IO|NetColor=$006EFF6E
+Net29=NetName=SWO|NetColor=$006EFF6E
+Net30=NetName=USB_FS_D_N|NetColor=$00FFFF6E
+Net31=NetName=USB_FS_D_P|NetColor=$00FFFF6E
+Net32=NetName=VBATT|NetColor=$000083FD
+Net33=NetName=VBATT_SENSE|NetColor=$00164FDE
+Net34=NetName=VDD|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
