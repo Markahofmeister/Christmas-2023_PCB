@@ -320,7 +320,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP13D8C5.hsd1.pa.comcast.net (HP ENVY Photo 6200 series)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1194,28 +1194,29 @@ Net9=NetName=I2S_AMP_SD|NetColor=$007F0311
 Net10=NetName=I2S2_CLK|NetColor=$007F0311
 Net11=NetName=I2S2_DATA|NetColor=$007F0311
 Net12=NetName=I2S2_WS|NetColor=$007F0311
-Net13=NetName=NJTRST|NetColor=$006EFF6E
-Net14=NetName=NRST|NetColor=$006EFF6E
-Net15=NetName=SDIO_CARD_DETECT|NetColor=$0000BE00
-Net16=NetName=SDIO_CLK|NetColor=$0000BE00
-Net17=NetName=SDIO_CMD|NetColor=$0000BE00
-Net18=NetName=SDIO_D0|NetColor=$0000BE00
-Net19=NetName=SDIO_D1|NetColor=$0000BE00
-Net20=NetName=SDIO_D2|NetColor=$0000BE00
-Net21=NetName=SDIO_D3|NetColor=$0000BE00
-Net22=NetName=SHIFT_DATA_CLK|NetColor=$00094E5A
-Net23=NetName=SHIFT_DATA_OUT|NetColor=$00094E5A
-Net24=NetName=SHIFT_MCLR|NetColor=$00094E5A
-Net25=NetName=SHIFT_OE_PWM|NetColor=$00094E5A
-Net26=NetName=SHIFT_STORE_CLK|NetColor=$00094E5A
-Net27=NetName=SWD_CLK|NetColor=$006EFF6E
-Net28=NetName=SWD_IO|NetColor=$006EFF6E
-Net29=NetName=SWO|NetColor=$006EFF6E
-Net30=NetName=USB_FS_D_N|NetColor=$00FFFF6E
-Net31=NetName=USB_FS_D_P|NetColor=$00FFFF6E
-Net32=NetName=VBATT|NetColor=$000083FD
-Net33=NetName=VBATT_SENSE|NetColor=$00164FDE
-Net34=NetName=VDD|NetColor=clYellow
+Net13=NetName=NetJ2_5|NetColor=$0000BE00
+Net14=NetName=NJTRST|NetColor=$006EFF6E
+Net15=NetName=NRST|NetColor=$006EFF6E
+Net16=NetName=SDIO_CARD_DETECT|NetColor=$0000BE00
+Net17=NetName=SDIO_CLK|NetColor=$0000BE00
+Net18=NetName=SDIO_CMD|NetColor=$0000BE00
+Net19=NetName=SDIO_D0|NetColor=$0000BE00
+Net20=NetName=SDIO_D1|NetColor=$0000BE00
+Net21=NetName=SDIO_D2|NetColor=$0000BE00
+Net22=NetName=SDIO_D3|NetColor=$0000BE00
+Net23=NetName=SHIFT_DATA_CLK|NetColor=$00094E5A
+Net24=NetName=SHIFT_DATA_OUT|NetColor=$00094E5A
+Net25=NetName=SHIFT_MCLR|NetColor=$00094E5A
+Net26=NetName=SHIFT_OE_PWM|NetColor=$00094E5A
+Net27=NetName=SHIFT_STORE_CLK|NetColor=$00094E5A
+Net28=NetName=SWD_CLK|NetColor=$006EFF6E
+Net29=NetName=SWD_IO|NetColor=$006EFF6E
+Net30=NetName=SWO|NetColor=$006EFF6E
+Net31=NetName=USB_FS_D_N|NetColor=$00FFFF6E
+Net32=NetName=USB_FS_D_P|NetColor=$00FFFF6E
+Net33=NetName=VBATT|NetColor=$000083FD
+Net34=NetName=VBATT_SENSE|NetColor=$00164FDE
+Net35=NetName=VDD|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
