@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Christmas-2023_Soundboard.OutJob
 Description=
-TargetOutputMedium=PDF
+TargetOutputMedium=BOM
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -126,7 +126,7 @@ OutputName5=Bill of Materials
 OutputCategory5=Report
 OutputDocumentPath5=Christmas-2023_Soundboard.BomDoc
 OutputVariantName5=
-OutputEnabled5=0
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
@@ -143,9 +143,9 @@ Configuration5_Item3=Comment=True|Footprint=True
 Configuration5_Name4=SortOrder
 Configuration5_Item4=Designator=Up
 Configuration5_Name5=VisibleOrder
-Configuration5_Item5=Line #=59|Designator=120|Quantity=50|MFR=100|MFR PN=100|Footprint=120|Type=53|Value=56|Notes=100
+Configuration5_Item5=Designator=120|Value=56|MFR PN=100|Footprint=120
 Configuration5_Name6=VisibleOrder_Base
-Configuration5_Item6=Line #=59|Designator=120|Quantity=50|MFR=100|MFR PN=100|Footprint=120|Type=53|Value=56|Notes=100
+Configuration5_Item6=Designator=120|Value=56|MFR PN=100|Footprint=120
 Configuration5_Name7=VisibleOrder_Consolidated
 Configuration5_Item7=Line #=53|Comment=52|Description=79|Designator=77|Quantity=67|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=143|Supplier 1=72|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=116
 Configuration5_Name8=VisibleOrder_Flat
@@ -155,7 +155,7 @@ OutputName6=Draftsman
 OutputCategory6=Documentation
 OutputDocumentPath6=
 OutputVariantName6=
-OutputEnabled6=1
+OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=1
 OutputEnabled6_OutputMedium3=0
@@ -218,7 +218,7 @@ OutputFileNameMulti4=
 UseOutputNameForMulti4=1
 OutputFileNameSpecial4=
 OpenOutput4=1
-OutputFilePath5=C:\Lab\sinking-clock\electrical\sinking-clock_LED-PCB\Project Outputs for sinking-clock_LED-PCB\
+OutputFilePath5=C:\Lab\Christmas-2023\Christmas-2023_PCB\Christmas-2023_Soundboard\Project Outputs for Christmas-2023_Soundboard\
 ReleaseManaged5=1
 OutputBasePath5=Project Outputs for Christmas-2023_Soundboard
 OutputPathMedia5=
@@ -255,7 +255,7 @@ OpenGerberOutput4=0
 OpenNCDrillOutput4=0
 OpenIPCOutput4=0
 EnableReload4=0
-RelativeOutputPath5=C:\Lab\sinking-clock\electrical\sinking-clock_LED-PCB\Project Outputs for sinking-clock_LED-PCB\
+RelativeOutputPath5=C:\Lab\Christmas-2023\Christmas-2023_PCB\Christmas-2023_Soundboard\Project Outputs for Christmas-2023_Soundboard\
 OpenOutputs5=1
 AddToProject5=1
 TimestampFolder5=0
