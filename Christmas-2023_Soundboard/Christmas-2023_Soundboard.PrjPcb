@@ -218,111 +218,124 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Christmas-2023_Soundboard\BOM\Bill of Materials-Christmas-2023_Soundboard.xlsx
+[Document11]
+DocumentPath=Christmas-2023_Soundboard.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YVNSIQOI
 
-[GeneratedDocument2]
+[GeneratedDocument1]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\NC Drill\Christmas-2023_Soundboard-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\NC Drill\Christmas-2023_Soundboard-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\NC Drill\Christmas-2023_Soundboard.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.G1
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.G2
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\NC Drill\Christmas-2023_Soundboard.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.REP
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Gerber\Christmas-2023_Soundboard.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Design Rule Check - Christmas-2023_Soundboard.html
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Pick Place\Pick Place for Christmas-2023_Soundboard.csv
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for Christmas-2023_Soundboard\Pick Place\Pick Place for Christmas-2023_Soundboard.txt
 DItemRevisionGUID=
 
@@ -1270,8 +1283,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Christmas-2023_Soundboard.SchLib
-ComponentDesignItemID0=SPDT SLIDE SWITCH
-ComponentSymbolReference0=SPDT SLIDE SWITCH
+ComponentDesignItemID0=TAG CONNECT POGO HEADER
+ComponentSymbolReference0=TAG CONNECT POGO HEADER
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1301,10 +1314,12 @@ ParameterName5=MFR PN
 ParameterUpdate5=1
 ParameterName6=Type
 ParameterUpdate6=1
+ParameterName7=Value
+ParameterUpdate7=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=CUS-12TB_NDC
+ModelName0=TAG CONNECT TC2030IDC
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]

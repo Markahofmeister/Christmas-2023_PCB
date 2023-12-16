@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : C:\Lab\Christmas-2023\Christmas-2023_PCB\Christmas-2023_Soundboard\Christmas-2023_Soundboard.PcbDoc
-Date         : 12/1/2023
-Time         : 8:07:26 AM
+Date         : 12/7/2023
+Time         : 1:26:44 PM
 Time Elapsed : 00:00:01
 
 General
@@ -17,7 +17,7 @@ Routing Information
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Sig, 0, 211, 0, 609, 0, 0, 240, 0
+    Top Sig, 0, 211, 0, 606, 0, 0, 240, 0
     PWR/SIG, 0, 0, 0, 145, 0, 0, 15, 0
     GND, 0, 0, 0, 0, 0, 0, 1, 0
     Bottom Sig, 0, 357, 0, 990, 0, 0, 377, 0
@@ -45,10 +45,10 @@ Drill Pairs, Vias
 count : 1
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Sig, 1.352, 872.098, 8%
-    PWR/SIG, 1.568, 1011.489, 9%
-    GND, 17.398, 11224.759, 99%
-    Bottom Sig, 1.962, 1265.725, 11%
+    Top Sig, 1.372, 885.38, 8%
+    PWR/SIG, 1.576, 1017.015, 9%
+    GND, 17.399, 11225.054, 99%
+    Bottom Sig, 1.98, 1277.099, 11%
 count : 4
 
 Non-Plated Hole Size, Pads, Vias
@@ -166,7 +166,7 @@ Track Width, Count
     0.127mm, 415
     0.1524mm, 27
     0.2mm, 21
-    0.254mm, 765
+    0.254mm, 762
     0.2794mm, 19
     0.3048mm, 61
     0.4064mm, 696
